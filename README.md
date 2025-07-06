@@ -6,7 +6,7 @@ A sleek, responsive React app to view any GitHub user's profile, repositories, f
 
 ## 🚀 Live Demo
 
-👉 [Click Here to View Live](https://your-deployment-link.netlify.app)
+👉 [Click Here to View Live](https://githubprofilestalck.netlify.app/)
 
 ---
 
