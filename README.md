@@ -55,3 +55,16 @@ cd github-profile-viewer
 npm install
 npm run dev
 ```
+
+---
+
+## 📷 Screenshot:
+
+<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/6f41b0e3-4333-424d-acfb-64cd164667a1" />
+
+
+<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/ed3a7434-8a65-458d-bbf1-afac135b830a" />
+
+
+<img width="3200" height="2000" alt="image" src="https://github.com/user-attachments/assets/56da87b8-e4e9-419d-bfe8-e5c1d977294c" />
+
